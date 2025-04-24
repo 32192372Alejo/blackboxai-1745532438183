@@ -134,7 +134,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="120dp"
                                 android:scaleType="centerCrop"
-                                android:src="@drawable/marketing" />
+                                android:src="@drawable/marketing_vector" />
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -172,7 +172,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="120dp"
                                 android:scaleType="centerCrop"
-                                android:src="@drawable/software" />
+                                android:src="@drawable/software_vector" />
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -209,7 +209,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="120dp"
                                 android:scaleType="centerCrop"
-                                android:src="@drawable/data_analysis" />
+                                android:src="@drawable/data_analysis_vector" />
 
                             <TextView
                                 android:layout_width="wrap_content"
